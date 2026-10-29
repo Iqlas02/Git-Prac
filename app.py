@@ -1,4 +1,5 @@
 print('Hello, Git!')
 print('Learning Git step by step!')
 print('Main branch: learning Git merge conflicts!')
+print('Feature branch: practicing Git conflicts!')
 print('My first feature branch change!')
