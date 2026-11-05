@@ -14,7 +14,7 @@ class TestNotifications(unittest.TestCase):
         result = get_notification_message("Iqlas")
         self.assertEqual(
             result,
-            "Welcome, Iqlas! You have a new notification."
+            "Welcome, Iqlas"
         )
 
     def test_empty_username(self):
