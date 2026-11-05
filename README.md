@@ -125,3 +125,5 @@ This keeps the repository organized by removing branches that are no longer need
 ## Learning Objective
 
 The objective of this repository is to build practical knowledge of Git and GitHub workflows, including version control, collaboration, code reviews, and maintaining a clean project history.
+## User Notifications
+Supports personalized notification messages.
